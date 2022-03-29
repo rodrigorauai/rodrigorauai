@@ -1,7 +1,5 @@
 # Rodrigo Alves da Silva
 
-<img src="https://pt.gravatar.com/userimage/159422889/a5142b6ef2a0fc8f8d3df44938b412b7.jpg?size=200" />
-
 Local: Marília - São Paulo | Idade: 29 anos
 
 Trabalhei 5 anos como freelancer, fazendo sites e e-commerce enquanto estudava em Joinville-SC na Udesc de 2013 a 2018. Ha 2 anos estou prestando serviço através de minha empresa, Rauai Eirelli, desde de junho de 2018 e recentemente retornei em junho de 2020 a Marília-SP em busca de novas oportunidades.

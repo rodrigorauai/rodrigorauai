@@ -1,6 +1,6 @@
 # Rodrigo Alves da Silva
 
-Local: Marília - São Paulo | Idade: 29 anos
+Local: Barretos - São Paulo | Idade: 30 anos
 
 Trabalhei 5 anos como freelancer, fazendo sites e e-commerce enquanto estudava em Joinville-SC na Udesc de 2013 a 2018. Ha 2 anos estou prestando serviço através de minha empresa, Rauai Eirelli, desde de junho de 2018 e recentemente retornei em junho de 2020 a Marília-SP em busca de novas oportunidades.
 
@@ -13,3 +13,4 @@ Passei os últimos 2 anos coordenando uma equipe de programadores, trazendo a ne
 ## Certificações
 
 * [Responsive Web Design](https://www.freecodecamp.org/certification/rodrigorauai/responsive-web-design) - [freeCodeCamp](https://www.freecodecamp.org/)
+* [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/rodrigorauai/javascript-algorithms-and-data-structures) - [freeCodeCamp](https://www.freecodecamp.org/)

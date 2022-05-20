@@ -1,10 +1,11 @@
 # Rodrigo Alves da Silva
 
-Local: Barretos - São Paulo | Idade: 30 anos
+<p align="right"> Local: Barretos - São Paulo | Idade: 30 anos </p>
 
-Trabalhei 5 anos como freelancer, fazendo sites e e-commerce enquanto estudava em Joinville-SC na Udesc de 2013 a 2018. Ha 2 anos estou prestando serviço através de minha empresa, Rauai Eirelli, desde de junho de 2018 e recentemente retornei em junho de 2020 a Marília-SP em busca de novas oportunidades.
+<p>Trabalhei 5 anos como freelancer, fazendo sites e e-commerce enquanto estudava em Joinville-SC de 2013 a 2018. Por 2 anos prestei serviço através de minha empresa de junho de 2018 a junho 2020 e retornei em 2020 a Marília-SP. Atualmente estou em
+Barretos-SP a procura de novas oportunidades.</p>
 
-Passei os últimos 2 anos coordenando uma equipe de programadores, trazendo a necessidades dos setores de mídia e redação da empresa que prestei serviço recentemente durante esse tempo. Possuo conhecimentos em programação (PHP, Java, Python, C), o suficiente pra me auxiliar no acompanhamento dos projetos que realizava com a equipe. Tenho conhecimento em padrões de qualidade e procedimentos, alguns que aprendi na Nestlé de Marília e outros através de clientes e estudo, como Lean, 5S, Digrama de Ishikawa, PCP, Kanban entre outras. Meu trabalho como empresa foi sempre a conclusão e otimização de atividades e a implementação de sistema proprietários e/ou de terceiros para solucionar problemas.
+<p>Possuo conhecimentos em PHP, JavaScript e Python. Tenho conhecimento em padrões de qualidade e procedimentos, alguns que aprendi na Nestlé de Marília e outros através de clientes e estudo, como Lean, 5S, Digrama de Ishikawa, PCP, Kanban entre outras. Meu trabalho como empresa foi sempre a conclusão e otimização de atividades e a implementação de sistema proprietários e/ou de terceiros para solucionar problemas.</p>
 
 ## Formação
 
@@ -14,3 +15,19 @@ Passei os últimos 2 anos coordenando uma equipe de programadores, trazendo a ne
 
 * [Responsive Web Design](https://www.freecodecamp.org/certification/rodrigorauai/responsive-web-design) - [freeCodeCamp](https://www.freecodecamp.org/)
 * [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/rodrigorauai/javascript-algorithms-and-data-structures) - [freeCodeCamp](https://www.freecodecamp.org/)
+
+## Links
+
+<p>
+  <a href="https://github.com/rodrigorauai" alt="Github">
+    <img src="https://img.shields.io/badge/-Github-6610F2?style=for-the-badge&logo=Github&logoColor=FFFFFF&link=https://github.com/rodrigorauai"/>
+  </a>
+ 
+  <a href="https://www.linkedin.com/in/rodrigorauai/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/rodrigorauai/"/>
+  </a>
+  
+  <a href="https://www.instagram.com/rodrigorauai/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/rodrigorauai/"/>
+  </a> 
+</p>

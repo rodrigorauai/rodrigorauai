@@ -1,9 +1,8 @@
 # Rodrigo Alves da Silva
 
-<p align="right"> Local: Barretos - São Paulo | Idade: 30 anos </p>
+<p align="right"> Local: Curitiba - Parana | Idade: 31 anos </p>
 
-<p>Trabalhei 5 anos como freelancer, fazendo sites e e-commerce enquanto estudava em Joinville-SC de 2013 a 2018. Por 2 anos prestei serviço através de minha empresa de junho de 2018 a junho 2020 e retornei em 2020 a Marília-SP. Atualmente estou em
-Barretos-SP a procura de novas oportunidades.</p>
+<p>Trabalhei 5 anos como freelancer, fazendo sites e e-commerce enquanto estudava em Joinville-SC de 2013 a 2018. Por 2 anos prestei serviço através de minha empresa de junho de 2018 a junho 2020 e retornei em 2020 a Marília-SP. Atualmente estou em Curitiba-PR.</p>
 
 <p>Possuo conhecimentos em PHP, JavaScript e Python. Tenho conhecimento em padrões de qualidade e procedimentos, alguns que aprendi na Nestlé de Marília e outros através de clientes e estudo, como Lean, 5S, Digrama de Ishikawa, PCP, Kanban entre outras. Meu trabalho como empresa foi sempre a conclusão e otimização de atividades e a implementação de sistema proprietários e/ou de terceiros para solucionar problemas.</p>
 
